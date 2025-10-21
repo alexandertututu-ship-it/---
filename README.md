@@ -37,7 +37,7 @@
 [📎 Решение](https://www.postman.com/universal-capsule-3550342/workspace/s-workspace/collection/46600300-bf8f2411-e51b-416c-83cf-b4800fc7db0e?action=share&creator=46600300&active-environment=46600300-7c53509b-6c85-4e7a-8c54-e50a678e4a58)
 
 #### Задание 4 - Создание SOAP коллекции
-[сервис]([https://intern.demoshopping.ru/api-docs/](http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL))
+сервис - (http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL)
 **Задача:** В коллекцию должны попасть следующие методы:
 ListOfContinentsByName
 CountryName
